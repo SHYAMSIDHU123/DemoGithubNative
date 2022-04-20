@@ -57,6 +57,8 @@ public class Demo1 extends Capabilities{
 		System.out.println("This is Jarvis repo");
 		System.out.println("This is Jarvis repo");
 		System.out.println("This is Jarvis repo");
+		System.out.println("This is Jarvis repo");
+		System.out.println("This is Jarvis repo");
 		
 	}
 	}
